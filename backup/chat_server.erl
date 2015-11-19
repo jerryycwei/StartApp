@@ -1,0 +1,2 @@
+-module (chat_server).
+-export ([function/arity]).
